@@ -31,10 +31,6 @@
     { "start": 4.38, "end": 4.42, "value": "B" },
     { "start": 4.42, "end": 4.60, "value": "C" },
     { "start": 4.60, "end": 4.74, "value": "B" },
-    { "start": 4.74, "end": 4.87, "value": "X" },
-    { "start": 4.87, "end": 4.93, "value": "B" },
-    { "start": 4.93, "end": 4.98, "value": "C" },
-    { "start": 4.98, "end": 5.19, "value": "B" },
-    { "start": 5.19, "end": 5.32, "value": "X" }
+    { "start": 4.74, "end": 4.87, "value": "X" }
   ]
 }
